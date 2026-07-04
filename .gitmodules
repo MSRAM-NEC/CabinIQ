@@ -1,0 +1,3 @@
+[submodule "CabinIQ"]
+	path = CabinIQ
+	url = https://github.com/MSRAM-NEC/InCabin-Python.git
